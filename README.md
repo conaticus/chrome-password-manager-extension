@@ -3,7 +3,7 @@
 ### NOTE: 
 This project is a **prove of concept** / **sample application** for a chromium based web-browser and originated form the youtube video: https://www.youtube.com/watch?v=bpuomoEUbgQ
 
-This extension **does not provide a secure password storage** (as of now 18th March 2022) and therefor it is not recomeded to be used for other than educational purposes.
+This extension **does not provide secure password storage** (as of 18th March 2022) and therefore it is not recommended to be used for anything other than educational purposes.
 
 
 # Embed app into chromium based web-browsers
