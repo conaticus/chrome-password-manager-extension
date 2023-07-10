@@ -16,6 +16,7 @@ const getUrls = async () => {
         wrapper.className = "passwords-item";
 
         const linkEl = document.createElement("a");
+        linkEl.target = "_blank";
         linkEl.href = password.url;
         linkEl.innerText = extractNameFromUrl(password.url);
         const deleteBtn = document.createElement("button");
